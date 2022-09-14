@@ -18,3 +18,5 @@ In this repository you will find short tutorials related to Deep Learning. I hav
 - 📓 [Memoisation](https://github.com/meechos/Programming-Terms-Toolkit/blob/main/nbs/Memoisation.ipynb)
 - 📓 [Combinations and Permutations](https://github.com/meechos/Programming-Terms-Toolkit/blob/main/nbs/Combinations_Permutations.ipynb)
 - 📓 [DRY: Don't Repeat Yourself](https://github.com/meechos/Programming-Terms-Toolkit/blob/main/nbs/DRY.ipynb)
+
+Sources: Corey Schafer, Martin Héroux, GoF, Wikipedia
