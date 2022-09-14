@@ -9,7 +9,7 @@ ___
 
 # Programming-Terms-Toolkit
 
-In this repository you will find short tutorials related to Deep Learning. I have put together these notebooks over the years for my own use. The electron is a theory we use; it is so useful in understanding the way nature works that we can almost call it real. Please feel free to create an issue in case anything is off. In the modern world there is more and more information, and less and less meaning. But it is the mark of an educated mind to be able to entertain a thought without accepting it.
+Some "words", repeatedly used in programming and computer science, are sometimes assumed to be common knowledge, while other times it is not. In this repository you will find short tutorials related to these terms, which I have put together over the years for my own use and were absolutely copypasted by Corey Schafer's tutorial videos. I hope you find these useful.
 
 ## Table Of Contents
 - 📓 [First Class Functions](https://github.com/meechos/Programming-Terms-Toolkit/blob/main/nbs/First_Class_Functions.ipynb)
