@@ -9,7 +9,7 @@ ___
 
 # Programming-Terms-Toolkit
 
-Some "words", repeatedly used in programming and computer science, are sometimes assumed to be common knowledge, while other times it is not. In this repository you will find short tutorials related to these terms, which I have put together over the years for my own use and were absolutely copypasted by Corey Schafer's tutorial videos. I hope you find these useful.
+Some "words", repeatedly used in programming and computer science, are sometimes assumed to be common knowledge, while other times it is not. In this repository you will find short tutorials related to these terms, which I have put together for my own use and were absolutely copypasted by Corey Schafer's tutorial videos. I hope you find these useful.
 
 ## Table Of Contents
 - 📓 [First Class Functions](https://github.com/meechos/Programming-Terms-Toolkit/blob/main/nbs/First_Class_Functions.ipynb)
