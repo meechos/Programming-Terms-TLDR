@@ -7,7 +7,7 @@ ___
 
 [logo]: https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/others/logo/youtube_logo.png
 
-# Programming-Terms-Toolkit
+# Programming-Terms-TIL
 
 Some "words", repeatedly used in programming and computer science, are sometimes assumed to be common knowledge, while other times it is not. In this repository you will find short tutorials related to these terms, which I have put together for my own use and were absolutely copypasted by Corey Schafer's tutorial videos. I hope you find these useful.
 
